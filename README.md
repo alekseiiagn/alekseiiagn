@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I’m currently a **Team Lead** at **T-Bank** (ex **Tinkoff**), where I lead a cross-platform team and work on side projects that help companies automate processes and cut down on paperwork.
 
-<!--
-**alekseiiagn/alekseiiagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m 24, and before **T-Bank**, I worked as a **backend** developer at some of Russia’s top tech companies — **Sber** and **Yandex**.
+These days, I’m diving into People Management and getting more hands-on with AI.
 
-Here are some ideas to get you started:
+I’m also looking to connect with cool developers, ML engineers, and other team leads.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun fact: I have an art education — studied for 10 years — so there’s a creative side to my tech brain too 🎨
+
+
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/alekseiiagnlife) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekseiiagnenkov@gmail.com) [![LeetCode](https://img.shields.io/badge/Leetcode-%23e09900.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/alekseiiagn) 
+
+# 💻 Tech Stack:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![gRPC](https://img.shields.io/badge/gRPC-448AFF.svg?style=for-the-badge&logo=google&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![JUnit 5](https://img.shields.io/badge/JUnit%205-%23A25A7C.svg?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-%2364C038.svg?style=for-the-badge&logo=mockito&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-%23E64A19.svg?style=for-the-badge&logo=testcontainers&logoColor=white) ![Roadmap planning](https://img.shields.io/badge/Roadmap%20planning-%230A0FFF.svg?style=for-the-badge) ![OKR/KPI](https://img.shields.io/badge/OKR%20/%20KPI-%23343434.svg?style=for-the-badge) ![English B2](https://img.shields.io/badge/English%20B2-%236E6E6E.svg?style=for-the-badge) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
