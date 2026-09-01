@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a **Team Lead** at **T-Bank** (ex **Tinkoff**), where I lead a cross-platform team and work on side projects that help companies automate processes and cut down on paperwork.
+I’m currently a **Group Lead** at **T-Bank** (ex **Tinkoff**), where I lead a cross-platform team and work on side projects that help companies automate processes and cut down on paperwork.
 
 I’m 24, and before **T-Bank**, I worked as a **backend** developer at some of Russia’s top tech companies — **Sber** and **Yandex**.
 These days, I’m diving into People Management and getting more hands-on with AI.
